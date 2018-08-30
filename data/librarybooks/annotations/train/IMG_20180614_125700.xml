@@ -1,0 +1,13 @@
+<annotation verified="yes">
+                                    <folder>Annotation</folder>
+                                    <filename>IMG_20180614_125700.jpg</filename>
+                                    <path>/home/haijie/machine-learning/temp/usb-ml/datasets/librarybooks/vott-output/nolabel/01/JPEGImages/IMG_20180614_125700.jpg</path>
+                                    <source>
+                                        <database>Unknown</database>
+                                    </source>
+                                    <size>
+                                        <width>816</width>
+                                        <height>612</height>
+                                        <depth>3</depth>
+                                    </size>
+                                    <segmented>0</segmented></annotation>
